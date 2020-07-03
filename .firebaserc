@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "limelight"
+    "default": "limelight-80a7a",
+    "testing": "limelight-testing"
   }
 }
