@@ -12,7 +12,7 @@ Platform works more like Reddit + Awwwards. Community users who wish to showcase
 Follow our community 
 
 # Contributing
-Read through or [contributing guidelines](contributing.md).
+Read through or [contributing guidelines](https://github.com/LimelightInc/Limelight/blob/master/Contributing.md).
 
 ## Technologies Used
 - Bootstrap

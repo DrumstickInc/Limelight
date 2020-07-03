@@ -5,8 +5,8 @@ Looking to contribute something to Limelight? Here's how you can help.
 ## Quick start
 We only accept issues that are bug reports, or feature requests. Bugs must be isolated and reproducible problems that we can fix within the Limelight core.
 
-- [Request a new feature](https://github.com/GrishonNganga/Limelight/issues/new)
-- [Submit a bug report](https://github.com/GrishonNganga/Limelight/issues/new)
+- [Request a new feature](https://github.com/LimelightInc/Limelight/issues/new)
+- [Submit a bug report](https://github.com/LimelightInc/Limelight/issues/new)
   
 ## Key branches
 ``master``  is the latest, deployed version
