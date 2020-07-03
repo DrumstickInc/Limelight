@@ -3,8 +3,6 @@
 >Version 1 
 #### This platform is a community driven platform that seeks to recognize the works of other designers and web artisans.
 
-
-
 # Description
 
 Platform works more like Reddit + Awwwards. Community users who wish to showcase their awesome work post their work (currently provides github pages live link). Other users can view the site, upvote the post if they like what they see. Conversations can also happen over at the comments section. Posts and other comments are ranked by their popularity. Just like Reddit. Why are we doing this? Bred in Moringa school, this idea came about to try and make it easier for students to find other students work while alo maintaining a record of all the projects previous students did. (Although now it transcends Moringa School context).
@@ -16,8 +14,13 @@ Follow our community
 # Contributing
 Read through or [contributing guidelines](https://github.com/LimelightInc/Limelight/blob/master/Contributing.md).
 
-# Support and contact details
+## Technologies Used
+- Bootstrap
+- JQuery
+- Javascript
+- Firebase
 
+## Support and contact details
 Grab a cup of coffee? Email 'grishon.nganga01@gmail.com'
 
 # License
